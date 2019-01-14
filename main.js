@@ -77,3 +77,4 @@ client.on("message", msg => {
 });
 
 client.login(security.token);
+node main.js
